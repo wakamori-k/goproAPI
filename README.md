@@ -1,1 +1,3 @@
-API for controlling gopro HERO session from Python.
+API for GoPro HERO session.
+The API is written in Python.
+
